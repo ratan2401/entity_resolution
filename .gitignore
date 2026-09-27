@@ -1,0 +1,8 @@
+# Checkpoints
+code/business_entity_resolution/src/checkpoints/
+
+# Dataset
+dataset/
+
+# Output
+output/
